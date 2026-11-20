@@ -1,0 +1,17 @@
+# Saída de compilação
+*.class
+out/
+bin/
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# Logs e SO
+*.log
+.DS_Store
+Thumbs.db
